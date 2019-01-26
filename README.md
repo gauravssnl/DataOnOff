@@ -10,6 +10,7 @@ su -c svc data disable
 ```
 
 Requirement : Rooted Android Phone.
+
 Download link : https://github.com/gauravssnl/DataOnOff/releases/download/v1.00/DataOnOff.apk
 
 ## App Screenshot
