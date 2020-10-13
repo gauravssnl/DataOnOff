@@ -1,7 +1,7 @@
 # DataOnOff
 Android app to toggle ( switch on &amp; off ) Mobile Internet with single click
 
-This app is baed on following Android Command :
+This app is based on following Android Command :
 
 ```bash
 su - c svc data enable
